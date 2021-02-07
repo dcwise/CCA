@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd"[
+
+<!-- Begin Document Specific Declarations -->
+<!-- End Document Specific Declarations -->
+
+]>
+<bookmap xml:lang="zh-CN" id="bookmap-1">
+  <title>民用航空安全检查规则</title>
+  <bookmeta>
+    <author type="contributor">RAYFAN</author>
+    <critdates>
+      <!--RAYFAN-->
+      <revised modified="2021-02-07"/>
+    </critdates>
+  </bookmeta>
+ 
+  <frontmatter>
+    <booklists>
+      <toc />
+    </booklists>
+    <preface></preface>
+  </frontmatter>
+  
+  
+  <chapter href="concept/general.dita" >
+    
+
+      <topicref href="concept/article1.dita"/>
+      <topicref href="concept/article2.dita"/>
+      <topicref href="concept/article3.dita"/>
+
+    
+  </chapter>
+  <chapter href="concept/chapter2.dita">
+ 
+      <topicref href="concept/article8.dita"/>
+  </chapter>
+  
+  <chapter href="GTMSubjectScheme.ditamap" format="ditamap"/>
+</bookmap>

@@ -1,0 +1,16 @@
+*[class ~= "front-page/front-page-title"]:after(1) {
+    display:block;
+    content: "草稿";
+    font-size: large;
+    color: red;
+    text-align:center;
+}
+
+*[class ~= "front-page/front-page-title"]:after(2) {
+    display:block;
+    content: "没有许可不可分发";
+    font-size: large;
+    color: red;
+    text-align:center;
+ 
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="untitled3">
+    <title>第八条</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author type="creator">RAYFAN</author>
+        <author type="contributor">RAYFAN</author>
+        <critdates>
+            <created date="2021-02-07"/>
+            <!--RAYFAN-->
+            <revised modified="2021-02-07"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p>民用运输机场管理机构应当设立专门的民航安检机构从事民航安检工作。</p>
+        <p>公共航空运输企业从事航空货物、邮件和进入相关航空货运区人员、车辆、物品的安全检查工作的，应当设立专门的民航安检机构。</p>
+    </conbody>
+</concept>
