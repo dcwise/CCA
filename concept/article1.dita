@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_llf_ry4_44b">
-    <title>第一条</title>
+    <title>利用微软 AI 做商业案例</title>
     <shortdesc></shortdesc>
     <prolog>
         <author type="creator">RAYFAN</author>
@@ -10,7 +10,54 @@
         </critdates>
     </prolog>
     <conbody>
+        <p>当然可以！以下是一些协同写作的实际例子：</p>
+        <ol id="ol_jpy_hrn_p1c">
+            <li>
+                <p><b>维基百科</b>：维基百科是一个由志愿者共同编辑的在线百科全书。成千上万的作者共同合作，创建和更新各种主题的文章。他们可以同时编辑同一篇文章，提供引用、修订错误，并确保内容的准确性。</p>
+            </li>
+            <li>
+                <p><b>团队项目报告</b>：在学校或工作中，团队成员通常需要合作撰写项目报告。他们可以使用共享文档工具（如Google Docs或Microsoft
+                    Teams）来协同编辑报告。每个人可以添加自己的部分，然后其他人可以提供反馈或进行修改。</p>
+            </li>
+            <li>
+                <p><b>开源软件开发</b>：开源社区中的开发人员一起编写代码、文档和用户手册。他们使用版本控制系统（如Git）来跟踪更改，并通过讨论、问题跟踪和合并请求来协同工作。这有助于创建高质量的软件。</p>
+            </li>
+            <li>
+                <p><b>作家合作</b>：有时，两位或更多的作家会合作创作一本书。他们可以共同制定情节、角色和结构，然后分工合作撰写不同章节。这种合作方式有助于创作出丰富多样的作品。</p>
+            </li>
+        </ol>
+        <p>总之，协同写作是一种强大的工具，有助于促进知识共享、提高效率，并融合不同作者的观点。无论是在学术、商业还是创意领域，协同写作都能够推动创作过程。</p>
+        <p><b>简介</b></p>
+        <p>能力</p>
+        <section id="section_kn5_mrn_p1c">
+            <p>啊按了</p>
+        </section>
+        <section id="section_jsg_4rn_p1c">
+            <title>案例分析</title>
+            <p>开始<foreign outputclass="embed-mermaid-diagram">graph LR
+A[Define the objective]
+B[Conduct market research]
+C[Identify project scope and deliverables]
+D[Perform a SWOT analysis]
+E[Evaluate financial feasibility]
+F[Assess risks and mitigation strategies]
+G[Develop a timeline and implementation plan]
+H[Evaluate the project's impact and benefits]
+I[Create an executive summary]
+J[Review and refine]
+K[Present the business case]
 
-        <p>为了规范民用航空安全检查工作，防止ZTE对民用航空活动的非法干扰，维护民用航空运输安全，依据《中华人民共和国民用航空法》《中华人民共和国民用航空安全保卫条例》等有关法律、行政法规，制定本规则。</p>
+A --> B
+B --> C
+C --> D
+D --> E
+E --> F
+F --> G
+G --> H
+H --> I
+I --> J
+J --> K
+</foreign></p>
+        </section>
     </conbody>
 </concept>
