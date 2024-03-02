@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_bzr_ltn_p1c">
-    <title></title>
+    <title>TASK任务</title>
     <shortdesc></shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>指示微波炉安全操作</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>关闭电源</cmd>
+            </step>
+            <step>
+                <cmd>打开托盘</cmd>
+            </step>
+            <step>
+                <cmd>清晰</cmd>
+            </step>
+            <step>
+                <cmd>归位<image href="../schematic.jpg" id="image_ubd_5tn_p1c"/></cmd>
             </step>
         </steps>
+        <result id="result_prl_rtn_p1c"/>
+        <example id="example_mjs_qtn_p1c">例如</example>
     </taskbody>
 </task>
